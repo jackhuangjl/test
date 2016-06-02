@@ -4,3 +4,7 @@ git add [filename] //select the file
 git commit -m 'first_commit' //creat a commit for the current change
 git remote add origin https://github.com/jackhuangjl/test  //push the file to my github website
 git push origin master  //merge the change to the master branch
+
+#how to creat a branch
+git branch [branch_name]
+git checkout [branch_name]
